@@ -1,0 +1,3 @@
+*.pdf
+outputs/*.pdf
+env/
