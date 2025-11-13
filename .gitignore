@@ -1,3 +1,7 @@
 *.pdf
 outputs/*.pdf
 env/
+combined.txt
+dictionary.txt
+pdfutilvenv/
+
